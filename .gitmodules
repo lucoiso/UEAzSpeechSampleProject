@@ -1,0 +1,3 @@
+[submodule "Plugins/UEAzSpeech"]
+	path = Plugins/UEAzSpeech
+	url = https://github.com/lucoiso/UEAzSpeech.git
