@@ -1,6 +1,6 @@
 # Unreal Engine Project: AzSpeechSampleProject
 
-![image](https://user-images.githubusercontent.com/77353979/227255562-ebd36d49-24cb-4317-ad0e-adf742dc9725.png)
+![image](https://user-images.githubusercontent.com/77353979/228654200-e01689e5-214f-44b1-aaf4-17913446ccf0.png)
 
 Sample Project for [AzSpeech plugin](https://github.com/lucoiso/UEAzSpeech)
 
