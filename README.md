@@ -6,7 +6,7 @@ Sample Project for [AzSpeech plugin](https://github.com/lucoiso/UEAzSpeech)
 
 ## Requirements
 * Visual Studio 2019 or 2022 with the Module: Game Development with C++
-* Unreal Engine 5.1
+* Unreal Engine 5.2
 * Git with Git LFS
 
 ## Installation
